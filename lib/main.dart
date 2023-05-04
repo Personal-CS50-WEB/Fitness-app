@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/screens/intro_screen.dart';
+import 'screens/intro_screen.dart';
 import 'screens/bmi_screen.dart';
 void  main() {
   runApp(const GlobeApp());
