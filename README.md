@@ -1,16 +1,16 @@
-# flutter_application_1
+# Fitness App
 
-A new Flutter project.
+A fitness app built with Flutter for tracking workouts and progress.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+To install and run the app, follow these steps:
+1. Clone the repository to your local machine:
+``
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Create and manage workout routines
+- Measure Body Mass Index (BMI)
+- View workout history and progress over time
+- Get weather updates based on location
+- ntuitive and easy-to-use UI
